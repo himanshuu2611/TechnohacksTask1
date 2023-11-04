@@ -17,9 +17,9 @@ public class technohacks1 {
         System.out.println("Welcome to our software !");
         System.out.println("enter the binary number :");
         int n=sc.nextInt();
-
+        
         binary(n);
-
+        System.out.println("Thank you !");
             }
         }
 
